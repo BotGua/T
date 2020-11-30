@@ -1,4 +1,4 @@
-# 🖤Akb4r™
+# 🖤Akb4r™🖤
 BOT WHATSAPP TERMUX ONLY BY RIFKY
 
 ### Alat dan Bahan
