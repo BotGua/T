@@ -243,7 +243,32 @@ conn.sendMessage(id, ' _Sama sama, semoga harimu menyenangkan :)_ ' ,MessageType
 else if (text == 'Thanks'){
 conn.sendMessage(id, ' _Sama sama, semoga harimu menyenangkan :)_ ' ,MessageType.text);
 }
+else if (text == '#donasi'){
+conn.sendMessage(id, ' _╔════════════════════
+║ *Donasi Ke ${A187}*
+╠════════════════════
+║├≽️⚜ *TELKOMSEL*: _0813-6896-5962_
+║├≽️⚜ ...⚜...⚜...⚜...⚜...⚜
+║├≽️⚜ *Tri*: _0898-566-7090_
+╠════════════════════
+║  *${A187}*
+╠════════════════════
+║╭──❉ *SOSMED ADMIN* ❉──
+║│1. *Group WhatsApp*
+║│ _${geoupwhatsapp}_
+║│2. *YouTube <subscribe>*
+║│ _${youtube}_
+║│3. *Instagram <Follow>*
+║│ _${instagram}_
+║│4. *Creator ${A187}*
+║│ _${nomer}_
+║╰───────────
+╠════════════════════
+║ _*MADE BY RIFKY AKBAR*_
+╚════════════════════ :)_ ,MessageType.text);
 
+	
+	
 // FiturA187ID
 
 if (text.includes('#nulis')){
